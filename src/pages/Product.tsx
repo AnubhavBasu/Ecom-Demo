@@ -43,7 +43,7 @@ const Product = () => {
     <Box p={3}>
       <Breadcrumb
         fontSize="sm"
-        spacing="9px"
+        spacing="11px"
         mb={6}
         color="gray.500"
         separator={<ChevronRightIcon color="gray.500" />}
